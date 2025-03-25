@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hey, I'm Logeshwaran [LOGAN]<br>🚀 Full-Stack Engineer | UI/UX Designer | Tech Enthusiast<br><br>I specialize in building scalable web applications and crafting seamless user experiences. My expertise lies in MERN stack, PostgreSQL, UI/UX design, and cloud solutions, helping businesses enhance their digital presence.<br><br>🔥 What I Do:<br>🛠 Full-Stack Development – MERN, PostgreSQL, AWS, CI/CD Pipelines<br><br>🎨 UI/UX Design – Figma, Wireframing, Prototyping<br><br>📊 Digital Marketing – SEO, Social Media, Content Strategy<br><br>⚙️ Cloud & DevOps – AWS, GitHub Actions, Docker<br><br><br><br>🏆 Achievements & Experience:<br><br>Built 15+ Websites – MERN, WordPress, Shopify, boosting business growth<br><br>IEEE Member | Hackathon Organizer | Speaker at ISCO 2023
+# 👋 Hey, this is Logeshwaran [LOGAN]<br>
+## 🚀 Full-Stack Engineer | UI/UX Designer | Tech Enthusiast<br><br>
+I specialize in building scalable web applications and crafting seamless user experiences. My expertise lies in MERN stack, PostgreSQL, UI/UX design, and cloud solutions, helping businesses enhance their digital presence.<br><br>
+
+### 🔥 What I Do:<br>
+🛠 Full-Stack Development – MERN, PostgreSQL, AWS, CI/CD Pipelines<br><br>🎨 UI/UX Design – Figma, Wireframing, Prototyping<br><br>📊 Digital Marketing – SEO, Social Media, Content Strategy<br><br>⚙️ Cloud & DevOps – AWS, GitHub Actions, Docker<br><br><br><br>
+
+### 🏆 Achievements & Experience:<br><br>
+Built 15+ Websites – MERN, WordPress, Shopify, boosting business growth<br><br>IEEE Member | Hackathon Organizer | Speaker at ISCO 2023
 
 <br><br>
 
